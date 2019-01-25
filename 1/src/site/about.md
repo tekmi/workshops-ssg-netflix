@@ -8,3 +8,4 @@ title: About this site
 
 Some info about this site.
 
+Change via Github! Yeah!
