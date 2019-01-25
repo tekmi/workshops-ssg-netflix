@@ -6,7 +6,7 @@ title: My meetup is amazing
 
 ## Is it amazing?
 
-Yes it is wow in staging again. Look at the different editions!
+Yes it is wow in staging again AND AGAIN. Look at the different editions!
 
 
 ## Editions
