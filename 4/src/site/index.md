@@ -4,9 +4,9 @@ title: My meetup is amazing
 ---
 
 
-## Is it amazing? AAAAAAAA
+## Is it amazing? BBBBBBBB
 
-Yes it is. Look at the different editions! AAAAAAAA
+Yes it is. Look at the different editions! BBBBBBBB
 
 
 ## Editions
